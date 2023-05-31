@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @VittorioAltagracia
+- 👋 Hi, I’m @VittorioAltagracia aka Viktor Palatnyk on LinkedIn. Aspiring developer & experienced QA Engineer.
+
 
 <!---
 VittorioAltagracia/VittorioAltagracia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
