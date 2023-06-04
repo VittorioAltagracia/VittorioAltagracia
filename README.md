@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VittorioAltagracia aka Viktor Palatnyk on LinkedIn. Aspiring developer & experienced QA Engineer.
+- 👋 Hi, I’m @VittorioAltagracia aka Viktor Palatnyk on LinkedIn. Aspiring developer & experienced QA Engineer passionate about coding.
 
 
 <!---
